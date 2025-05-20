@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Sleepy Cat
-- 💻 Java(a little) & Python Developer
+- 💻 Java & Python(a little) Developer
 - 🕒 UTC +3
 - 📚 Learning Java
-- 🌟 Let’s touch the sky
-- ✨ I want to become cybersecurity professional
+- 🌟 I want to become cybersecurity professional
+
 
 <!---
 kotokott/kotokott is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
