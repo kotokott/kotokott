@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Sleepy Cat
-- 💻 Java & Python(a little) Developer
+- 👋 Hi, I’m Kotokott
+- 💻 Java & C# developer
 - 🕒 UTC +3
-- 📚 Learning Java
-- 🌟 I want to become cybersecurity professional
+- 📖 CNN enjoyer
+- 🌟 Let's touch the sky
 
 
 <!---
