@@ -2,7 +2,7 @@
 - 💻 Java & C# developer
 - 🕒 UTC +3
 - 📖 CNN enjoyer
-- 🌟 Let's touch the sky
+- 🎈 Trying to make a game in Unity
 
 
 <!---
